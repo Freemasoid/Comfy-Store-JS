@@ -247,8 +247,6 @@ Navbar
     top: 50%;
     left: 65%;
     transform: translate(-50%, -50%);
-    width: 256px;
-    height: 80px;
   }
   .toggle-nav {
     display: none;
